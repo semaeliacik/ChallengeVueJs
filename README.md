@@ -1,4 +1,4 @@
-Bonus Soru Cevap:
+Bonus Sorunun Cevap:
 const data = [
   { id: 1, name: 'user 1' },
   { id: 2 },
